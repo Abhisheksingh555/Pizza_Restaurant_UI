@@ -8,7 +8,7 @@ Welcome to **Abhii Restaurant**, a modern, responsive website showcasing flame-g
 
 ## 🔗 Live Preview
 
-- 🌍 **Live Site:** [Click to View](https://your-live-link-here.com)
+- 🌍 **Live Site:** [Click to View](https://abhisheksingh555-pizza-restaurant.netlify.app/)
 - 💻 **GitHub Repo:** [Pizza_Restaurant_UI](https://github.com/Abhisheksingh555/Pizza_Restaurant_UI)
 
 ---
